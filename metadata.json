@@ -1,0 +1,6 @@
+{
+  "name": "WAHYU MOTOR JRT TECH",
+  "description": "Sistem scanner, diagnosa live data, baca/hapus kode kerusakan (DTC), dan panduan Pin Out ECU All Honda untuk Bengkel WAHYU MOTOR JRT TECH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
